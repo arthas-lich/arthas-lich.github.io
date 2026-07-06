@@ -1,0 +1,42 @@
+---
+title: My Linux Development Environment
+date: 2026-07-07 20:30:00 +0300
+categories: [Linux, Development]
+tags: [linux, emacs, git, devops]
+description: My daily Linux development environment for DevOps and physics research.
+toc: true
+comments: true
+math: false
+pin: false
+---
+
+## Why I Changed My Workflow
+
+After trying several editors and operating systems, I finally settled on a Linux-based workflow centered around Emacs.
+
+## My Tool Stack
+
+- Ubuntu 24.04
+- Emacs
+- Git
+- Docker
+- tmux
+
+## Example Command
+
+```bash
+git clone https://github.com/username/dotfiles.git
+cd dotfiles
+./install.sh
+```
+
+## Notes
+
+This setup helps me keep both my DevOps work and particle physics studies organized.
+
+![Desktop Screenshot](/assets/img/posts/linux-desktop/desktop.webp)
+_My daily development environment._
+
+## Conclusion
+
+I'll continue documenting my workflow and improvements in future posts.
